@@ -2,8 +2,9 @@
 
 ## Descripción
 
-Bienvienidos, voy a explicar como generar un https para nuestra app web.
-Voy a presentar como se haria con las siguentes tecnologias, pero puede hacerce con la de tu preferencia, esto tomalo como guia ya no no varia mucho.
+Bienvienidos, voy a explicar como generar un certificado https gratis para nuestra app web.
+
+Voy a presentar como se haria con las siguentes tecnologias, pero puede hacerce con la de tu preferencia, esto tomalo como guia ya que no varia mucho.
 
 ## ⚙ Tecnologias
 
